@@ -1,5 +1,9 @@
 # Linguistic Agent Systems
 
+This paper describes a theoretical overview of a multi-agent system that specializes in linguistic understanding and language production.
+
+![](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Structure.png)
+
 ## Recognition Agents
 
 A recognition agent B is initialized with a set of built-in classes or categories that hold intimate ties to the sensory-motor system. Certain low-level patterns of information are classified automatically to assigned categories, for example the perceived changes resulting from an action are automatically sent to a “verb” category, while passive observations of objects are placed in a “noun” category. Each new category learned by B is contained within an existing supercategory. Thus the classes built into B make up the basis for every future class acquired by B through experience.
