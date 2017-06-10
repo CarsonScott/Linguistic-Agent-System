@@ -10,6 +10,6 @@ A rewrite agent R is initialized with a set of decision rules that constrain how
 
 The properties of a given sentence form a feature vector, which is passed to every constraint function to calculate the total error of the feature vector, which equates to a point on a feature space, on which every constraint function is related to an assigned subspace that defines the valid range of compositions that are deemed acceptable by a given constraint function. Simply put, the subspace of a given constraint function is the range of compositions which result in a non-negative output.
 
-The performance of R is indicated by the sum of results from each constraint, called the net error. This value acts as an output error used for backpropagation of the neural network which produces the behavioral outputs of R. This results in an indoctrination of sorts, where R adapts in order to minimize the expected errors received at future time steps.
+The performance of R is indicated by the sum of results from each constraint, called the net error. This value acts as an output error used in the backpropagation of R's neural network, which is responsible for the selection of R's behavioral outputs. The result is a sort of indoctrination, where R is adapted to minimize the expected cumulative error received in the future.
 
 
