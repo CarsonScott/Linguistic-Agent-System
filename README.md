@@ -1,4 +1,4 @@
-# Linguistic Agent Systems
+# Linguistic Competence in Multi-Agent Systems
 
 The following is a theoretical model for multi-agent systems that specialize in linguistic comprehension and language production.
 
