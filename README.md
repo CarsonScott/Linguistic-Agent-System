@@ -1,4 +1,4 @@
-# Linguistic-Based Agent Systems
+# Linguistic Agent Systems
 
 ## Recognition Agents
 
