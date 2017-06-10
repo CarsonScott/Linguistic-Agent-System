@@ -1,6 +1,6 @@
 # Linguistic Agent Systems
 
-This paper describes a theoretical overview of a multi-agent system that specializes in linguistic understanding and language production.
+The following is a theoretical model for multi-agent systems that specialize in linguistic comprehension and language production.
 
 ## Recognition Agents
 
