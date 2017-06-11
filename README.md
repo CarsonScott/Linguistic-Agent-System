@@ -8,7 +8,7 @@ The approach to linguistics used in this project is largely based on cognitive g
 
 The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams with which to represent the structure of sentences.
 
-![Structure](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Structure.png)
+![Structure](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/system_structure.png)
 
 ## Recognition Agent
 
