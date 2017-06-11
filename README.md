@@ -26,12 +26,14 @@ The performance of R is indicated by the sum of results from each constraint, ca
 
 A finite amount of memory gives rise to constraints on the depth and breadth of constructed sentences. In other words, the amount of memory for which a rewrite agent has at its disposal at any given time has direct influence on the complexity limit, or the maximum number of nodes that a rewrite agent can keep track of in a constructed sentence.
 
-## Knowledge Structure
+## Knowledge Organization
 
 Phonological patterns and their corresponding words are connected through bidirectional links in memory, such that the phonological patterns and the semantic reperesentations are stored as individual nodes, and bidirectional links transmit activation signals to-and-from associated nodes. 
 
 ![](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Memory.png)
 
 Motor patterns are also connected to words, where the associated phonological pattern of a word is emulated when passed through a motor system that carries out verbal actions. The output signal propagates across the social landscape via transmission lines- links that connect each agent to a set of other agents called a neighborhood- in the form of phonological data. 
+
+## Social Communication
 
 The signal is received by the neighboring agents, where a given phonological pattern in memory will respond (activate) to the input pattern if it bares a strong enough resemblence to that stored pattern. The semantic representation associated with the phonological pattern also becomes active, which in turn facilitates the power to carry out the verbal action associated with said semantic representation, provided the agent selects said verbal action to pass through the motor system into the social environment. 
