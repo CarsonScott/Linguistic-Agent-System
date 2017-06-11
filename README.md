@@ -1,6 +1,8 @@
 # Linguistic Competence in Multi-Agent Systems
 
-The following is a theoretical model for multi-agent systems that specialize in linguistic comprehension and language production.
+The following is a theoretical model for a multi-agent system that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that together produce meaningful representations of concepts in order to understand the world.
+
+The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams which model the structure of sentences as a tree.
 
 ## Recognition Agents
 
