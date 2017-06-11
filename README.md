@@ -38,4 +38,4 @@ Motor patterns are also connected to words, where the associated phonological pa
 
 The signal is received by the neighboring agents, where a given phonological pattern in memory will respond (activate) to the input pattern if it bares a strong enough resemblence to that stored pattern. The semantic representation associated with the phonological pattern also becomes active, which in turn facilitates the power to carry out the verbal action associated with said semantic representation, provided the agent selects said verbal action to pass through the motor system into the social environment. 
 
-![Society]()
+![Society](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Society.png)
