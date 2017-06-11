@@ -30,9 +30,9 @@ A finite amount of memory gives rise to constraints on the depth and breadth of 
 
 Phonological patterns and their corresponding words are connected through bidirectional links in memory, such that the phonological patterns and the semantic reperesentations are stored as individual nodes, and bidirectional links transmit activation signals to-and-from associated nodes. 
 
-![](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Memory.png)
-
 Motor patterns are also connected to words, where the associated phonological pattern of a word is emulated when passed through a motor system that carries out verbal actions. The output signal propagates across the social landscape via transmission lines- links that connect each agent to a set of other agents called a neighborhood- in the form of phonological data. 
+
+![Knowledge](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Memory.png)
 
 ## Social Interaction
 
