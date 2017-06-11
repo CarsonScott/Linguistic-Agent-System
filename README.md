@@ -1,10 +1,10 @@
-# Linguistic Development in Distributed Artificial Intelligence
+# Linguistic Development and Distributed Artificial Intelligence
 
 The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
 
 The approach to linguistics used in this project is largely based on cognitive grammar, a framework laid out by Ronald Langacker in his books, "Foundations of Cognitive Grammar".
 
-## Agent Overview
+## Overview
 
 The first subagent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second subagent. The second subagent, the rewrite agent, is in charge of taking words from the queue and constructing tree diagrams that represent sentence structure.    
 
