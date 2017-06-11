@@ -1,4 +1,4 @@
-# Language Acquisition through Distributed Artificial Intelligence
+# Linguistic Competence using Distributed AI
 
 The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
 
