@@ -1,6 +1,8 @@
 # Linguistic Competence in Multi-Agent Systems
 
-The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. The exact nature of which is largely influenced by the work of Ronald Langacker on cognitive grammar laid out in his two-volume series of books, "Foundations of Cognitive Grammar".
+The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
+
+The approach to linguistics is largely inspired by cognitive grammar, laid out in "Foundations of Cognitive Grammar" by Ronald Langacker in 1983.
 
 The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams which model the structure of sentences as a tree.
 
