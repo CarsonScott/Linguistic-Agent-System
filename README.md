@@ -26,6 +26,8 @@ The performance of R is indicated by the sum of results from each constraint, ca
 
 A finite amount of memory gives rise to constraints on the depth and breadth of constructed sentences. In other words, the amount of memory for which a rewrite agent has at its disposal at any given time has direct influence on the complexity limit, or the maximum number of nodes that a rewrite agent can keep track of in a constructed sentence.
 
+![Constraints](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Constraints.png)
+
 ## Knowledge Organization
 
 Phonological patterns and their corresponding words are connected through bidirectional links in memory, such that the phonological patterns and the semantic reperesentations are stored as individual nodes, and bidirectional links transmit activation signals to-and-from associated nodes. 
