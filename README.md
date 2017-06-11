@@ -2,7 +2,7 @@
 
 The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
 
-The approach to linguistics is largely inspired by cognitive grammar, laid out in "Foundations of Cognitive Grammar" by Ronald Langacker in 1983.
+The approach to linguistics used in this project is largely based on cognitive grammar, a framework laid out by Ronald Langacker in his books, "Foundations of Cognitive Grammar".
 
 The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams which model the structure of sentences as a tree.
 
