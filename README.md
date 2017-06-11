@@ -8,7 +8,7 @@ The approach to linguistics used in this project is largely based on cognitive g
 
 The first subagent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second subagent. The second subagent, the rewrite agent, is in charge of taking words from the queue and constructing tree diagrams that represent sentence structure.    
 
-![Agent](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/system_structure.png)
+![Agent](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Agent.png)
 
 ## Recognition Agent
 
