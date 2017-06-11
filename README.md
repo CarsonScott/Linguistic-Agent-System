@@ -1,14 +1,14 @@
-# Linguistic Competence with Distributed AI  
+# Linguistic Development in Distributed Artificial Intelligence
 
 The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
 
 The approach to linguistics used in this project is largely based on cognitive grammar, a framework laid out by Ronald Langacker in his books, "Foundations of Cognitive Grammar".
 
-## Overview
+## Agent Overview
 
-The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams with which to represent the structure of sentences.
+The first subagent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second subagent. The second subagent, the rewrite agent, is in charge of taking words from the queue and constructing tree diagrams that represent sentence structure.    
 
-![Structure](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/system_structure.png)
+![Agent](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/system_structure.png)
 
 ## Recognition Agent
 
@@ -37,3 +37,5 @@ Motor patterns are also connected to words, where the associated phonological pa
 ## Social Interaction
 
 The signal is received by the neighboring agents, where a given phonological pattern in memory will respond (activate) to the input pattern if it bares a strong enough resemblence to that stored pattern. The semantic representation associated with the phonological pattern also becomes active, which in turn facilitates the power to carry out the verbal action associated with said semantic representation, provided the agent selects said verbal action to pass through the motor system into the social environment. 
+
+![Society]()
