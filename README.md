@@ -1,4 +1,4 @@
-# Linguistic Competence in Multi-Agent Systems
+# Linguistic Competence using Distributed Artificial Intelligence
 
 The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
 
@@ -6,9 +6,9 @@ The approach to linguistics used in this project is largely based on cognitive g
 
 ## Overview
 
-The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams which model the structure of sentences as a tree.
+The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams with which to represent the structure of sentences.
 
-![](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Structure.png)
+![Structure](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/Structure.png)
 
 ## Recognition Agent
 
