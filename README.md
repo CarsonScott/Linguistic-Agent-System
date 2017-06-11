@@ -8,7 +8,7 @@ The first agent, the recognition agent, is responsible for transforming input pa
 
 ## Recognition Agents
 
-A recognition agent B is initialized with a set of built-in classes or categories that hold intimate ties to the sensory-motor system. Certain low-level patterns of information are classified automatically to assigned categories, for example the perceived changes resulting from an action are automatically sent to a “verb” category, while passive observations of objects are placed in a “noun” category. Each new category learned by B is contained within an existing supercategory. Thus the classes built into B make up the basis for every future class acquired by B through experience.
+A recognition agent B is initialized with a set of built-in classes or categories for low-level information. Certain patterns are classified automatically, for instance the perceived changes caused by an action are automatically placed in a “verb” category, while perceived objects in the environment are placed in a “noun” category. Each new category that B learns over time is contained by an existing category, making it a subcategory to an already-known supercategory. Thus the buit-in classes are required in order for B to successfully acquire more complex categories.
 
 ## Rewriting Agents
 
