@@ -1,6 +1,6 @@
 # Linguistic Competence in Multi-Agent Systems
 
-The following is a theoretical model for a multi-agent system that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that together produce meaningful representations of concepts in order to understand the world.
+The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. The exact nature of which is largely influenced by the work of Ronald Langacker on cognitive grammar laid out in his two-volume series of books, "Foundations of Cognitive Grammar".
 
 The first agent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second agent. The second agent, the rewriting agent, is in charge of taking words from the queue and constructing relational diagrams which model the structure of sentences as a tree.
 
