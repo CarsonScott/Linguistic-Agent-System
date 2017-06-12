@@ -1,12 +1,12 @@
 # Language Development in Distributed AI Systems
 
-The following paper is a theoretical multi-agent model that specializes in linguistic comprehension and language production. The system is composed of two interacting agents that work together to produce meaningful representations of the world. 
-
-The approach to linguistics used in this project is largely based on cognitive grammar, a framework laid out by Ronald Langacker in his books, "Foundations of Cognitive Grammar".
+The following paper describes a theoretical model of language acquisition, comprehension, and production using a distributed multi-agent system. The system is composed of a society or population of agents, who communicate by sending and receiving phonological signals across a social network. Every individual contains an internal system of subagents that are specialized to perform a small number of tasks which make up the cognitive process.   
 
 ## Overview
 
-The first subagent, the recognition agent, is responsible for transforming input patterns into meaningful semantic units called words, which are sent through a transmission line called the queue to the second subagent. The second subagent, the rewrite agent, is in charge of taking words from the queue and constructing tree diagrams that represent sentence structure.    
+The initial subagent is called a recognition agent and is responsible for receiving input patterns from the environment and extracting  semantic representations, called words, of the observed patterns. Every time step the agent produces a set of words that were detected from the input and places them into a temporary storage-unit called a queue.
+
+The next subagent is called a construction agent and is responsive for observing a seuence of words from the queue and creating hierarchical diagrams, called trees, of the observed sequences. Every time steps the agent selects a set of operators that were determined by the contents of the queue with respect to the current state of the tree and applies them to the tree in order to add, remove, or change certain properties that define its structure.
 
 ![Agent](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Agent.png)
 
