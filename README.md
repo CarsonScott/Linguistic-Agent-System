@@ -1,4 +1,4 @@
-# Emergence of Linguistic Competence in Evolving Multi-Agent Systems
+# Emergent Linguistic Competence through Evolving Multi-Agent Systems
 
 The following paper describes a theoretical model of language acquisition, comprehension, and production using a distributed multi-agent system. The system is composed of a society or population of agents, who communicate by sending and receiving phonological signals across a social network. Every individual contains an internal system of subagents that are specialized to perform a small number of tasks which make up the cognitive process.   
 
