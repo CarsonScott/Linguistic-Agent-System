@@ -29,16 +29,16 @@ A finite amount of memory gives rise to constraints on the depth and breadth of 
 
 ![Constraints](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Constraints.png)
 
-## Knowledge Organization
+## Knowledge
 
-Phonological patterns and their corresponding words are connected through bidirectional links in memory, such that the phonological patterns and the semantic reperesentations are stored as individual nodes, and bidirectional links transmit activation signals to-and-from associated nodes. 
+Phonological patterns and their corresponding words are connected through bidirectional links in memory, such that the phonological patterns and the semantic representations are stored as individual nodes, and bidirectional links transmit activation signals to-and-from associated nodes. 
 
 Motor patterns are also connected to words, where the associated phonological pattern of a word is emulated when passed through a motor system that carries out verbal actions. The output signal propagates across the social landscape via transmission lines- links that connect each agent to a set of other agents called a neighborhood- in the form of phonological data. 
 
 ![Knowledge](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Memory.png)
 
-## Social Interaction
+## Communication
 
-The signal is received by the neighboring agents, where a given phonological pattern in memory will respond (activate) to the input pattern if it bares a strong enough resemblence to that stored pattern. The semantic representation associated with the phonological pattern also becomes active, which in turn facilitates the power to carry out the verbal action associated with said semantic representation, provided the agent selects said verbal action to pass through the motor system into the social environment. 
+The signal is received by the neighboring agents, where a given phonological pattern in memory will respond (activate) to the input pattern if it bares a strong enough resemblance to that stored pattern. The semantic representation associated with the phonological pattern also becomes active, which in turn facilitates the power to carry out the verbal action associated with said semantic representation, provided the agent selects said verbal action to pass through the motor system into the social environment.
 
 ![Society](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Society.png)
