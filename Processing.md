@@ -2,7 +2,7 @@
 
 Data is streamed through sensors where patterns are detected over the input vector at any given time. The patterns are compared to those at the previous time step and sequence are detected over the the recent past.The sequence are combined into concepts with morphological and phonological representations. Any time that a given concept is activated by one signifier, the other signifier also becomes active regardless of its presence in the environment which triggers a “mental image” or simulated experience of that signifier. Representations of the environment are formed using concepts and a set of relations between concepts to describe the meaningful aspects and implications of the current environment.
 
-![]()
+![Data Process](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Data%20Process.png)
 
 Signifiers from the auditory system can be viewed as words. Words combine to form sentenceswith a set of relations that are chosen according to syntax structure and the associated constraints. Each word is assigned a category which expresses the role it plays in the sentence, and defines the requirements that determine whether a sentence is meaningful. A syntactically valid sentence can then be analyzed in terms of instances rather than abstract classes. Higher-level analysis deals with additional constraints associated with subclasses that are more concrete than the initial syntax categories.
 
