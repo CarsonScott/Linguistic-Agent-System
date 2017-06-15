@@ -1,4 +1,8 @@
-# Data Process
+# System Data Procedure
+
+The following attempts to break down the various forms in which information is expressed throughout the system, along with the corresponding application of each.
+
+## Classes
 
 Data is passed through sensors and stored in an input vector, where local contrast is measured over space to extract feature vectors. Spatial patterns, called objects, are detected as relationships between features over space, while temporal patterns, called events, are recognized as relationships between features over time. 
 
