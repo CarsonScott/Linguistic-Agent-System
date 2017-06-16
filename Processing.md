@@ -2,11 +2,11 @@
 
 The following is an explaination of the various forms of information, as well their applications, within the system.
 
-![Process](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Data%20Process.png)
-
 ## Classes
 
 Data is passed through sensors and stored in an input vector, where local contrast is measured over space to extract feature vectors. Spatial patterns, called objects, are detected as relationships between features over space, while temporal patterns, called events, are recognized as relationships between features over time. 
+
+![Process](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Data%20Process.png)
 
 Visual/auditory data compose morphological/phonological patterns, which are combined to form classes. A class represents an abstract concept, and exists independently of its real-world signifiers.  When a class becomes active, its corrosponding morphological/phonological signifiers become active as well, triggering a sort of “mental image” or simulation of the signifiers' visual/auditory stimuli.
 
