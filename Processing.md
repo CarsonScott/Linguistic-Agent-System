@@ -24,5 +24,7 @@ A sentence is a structure that defines associations between words (i.e. classes)
 
 Templates are sentences with slots instead of words which correspond to syntactic categories, applying restrictions on the acceptable type allowed within a slot. Templates are developed through repeated experience with a wide variety of sentences. While forming a sentence from observed auditory patterns, the partial construction at each time step is compared to various templates in order to calculate the similarity between them. Matching templates are used to make predictions about the sentence structure, and results in greater efficiency due to the fact that it bypasses the search process by simply checking each new word and only initiated search if the current template fails to account for a new word.
 
+![Template](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/img/Template.png)
+
 Cost is the measured violation of the current template by a newly received word. A given template is violated when a word deviates from the expected type, rendering the template invalid and removing it from the active status. Templates may respond to deactivation by triggering a variation to become active, which retain the central structure of the template while resolving the previous violation with the original. The new template is selected without any extensive search.
 
