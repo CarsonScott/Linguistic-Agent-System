@@ -1,6 +1,6 @@
 ## Slots and Types
 
-A slot is a data structure that holds an equivalent value to a
+A slot is a data structure that holds an equivalent value with a
 particular element in a domain set at any given time. Slots represent
 abstract types and the values held at any given time represent instances
 of types, where the domain set is a set of known instances of a type,
