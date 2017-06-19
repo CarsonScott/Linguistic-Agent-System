@@ -1,4 +1,4 @@
-Slots and Types
+## Slots and Types
 
 A slot is a data structure that holds an equivalent value to a
 particular element in a domain set at any given time. Slots represent
@@ -11,9 +11,9 @@ held by a specific element in the domain. Therefore, each possible value
 is mutually exclusive with the rest, and the presence of one value
 entails the absence of the others.
 
-<img src="./media/image1.png" width="156" height="184" />
+![Slot](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/docs/img/slot.png)
 
-Properties and Classes
+## Properties and Classes
 
 Slots are applied when representing properties of an object, given that
 an instance of a class is an object whose properties are such that every
@@ -38,4 +38,4 @@ collection of prototypes. Therefore a class is not defined by a single
 prototype, but by multiple prototypes that distinguish between common
 variations of a class.
 
-<img src="./media/image2.png" width="288" height="168" />
+![Hierarchy](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/docs/img/datatypes.png)
