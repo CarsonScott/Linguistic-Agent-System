@@ -31,3 +31,16 @@ prototype, but by multiple prototypes distinguishing between common
 variations of a class.
 
 ![Hierarchy](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/docs/img/datatypes.png)
+
+## Objects and Relations
+
+Relations represent contrasts of objects in terms of property deltas over space and time. 
+Spatial difference refers to property deltas of objects in a set, while temporal difference
+refers to property deltas of the same object as it changes over time.
+
+![Relations](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/docs/img/Relations.PNG)
+
+References to structures like “object” and “set” are relative. An object may very well
+be considered a set of properties, while at the same time a property
+is an object in and of itself.This recursive functionality is complimented
+by the hierarchical structure of data within the system.
