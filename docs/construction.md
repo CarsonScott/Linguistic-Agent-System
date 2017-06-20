@@ -23,14 +23,14 @@ object is defined by a sufficiently-filled set of slots, the union set
 between a class and an object is complete if and only if the object
 fills all null-slots contained within the class.
 
+![Hierarchy](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/docs/img/datatypes.png)
+
 Slots are useful when representing prototypes of a class as well. A
 prototype is a partially-filled set of slots, the non-null properties
 being derived from repeated instantiation, and those particular combinations
 being generalized over a set a observations. A class is not defined by one
 prototype, but by multiple prototypes distinguishing between common
 variations of a class.
-
-![Hierarchy](https://github.com/CarsonScott/Linguistic-Agent-System/blob/master/docs/img/datatypes.png)
 
 ## Objects and Relations
 
