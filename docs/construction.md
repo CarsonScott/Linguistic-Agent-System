@@ -1,3 +1,5 @@
+# Knowledge Representation
+
 ## Slots and Types
 
 A slot is a data structure that holds a value within a
